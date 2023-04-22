@@ -1,0 +1,59 @@
+[INFO ] 2023-04-19 12:42:11.528 [main] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-19 12:42:23.895 [main] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-19 12:42:36.081 [main] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-19 12:42:59.215 [main] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-19 12:43:01.422 [main] Testing the addProductToCartTest - 150
+[INFO ] 2023-04-19 12:43:01.658 [main] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 11:48:01.826 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 11:49:16.815 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 11:49:32.203 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 11:49:55.599 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 11:49:57.961 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 147
+[INFO ] 2023-04-20 11:49:58.483 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 12:15:46.501 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:15:59.151 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:17:01.179 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:17:01.972 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:22:12.436 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:22:25.435 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:22:30.366 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:22:31.219 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:24:56.538 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:25:08.395 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:25:13.310 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:25:14.200 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Exception occured in initializing Browser
+[INFO ] 2023-04-20 12:33:47.343 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:34:26.603 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:34:53.215 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 12:35:16.384 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 12:35:18.582 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 150
+[INFO ] 2023-04-20 12:35:18.848 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 12:35:28.639 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the operadriver - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:08:03.754 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:08:16.333 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:08:28.370 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:08:51.794 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 13:08:54.044 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 260
+[INFO ] 2023-04-20 13:08:54.295 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 13:09:07.267 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the operadriver - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:35:45.648 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:35:56.230 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:36:05.481 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:36:28.567 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 13:36:30.849 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 260
+[INFO ] 2023-04-20 13:36:31.143 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 13:36:41.325 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the operadriver - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:46:05.334 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:46:18.463 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:46:32.321 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:46:55.705 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 13:46:57.978 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 180
+[INFO ] 2023-04-20 13:46:58.280 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 13:47:10.503 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the operadriver - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:48:11.640 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findStoresWithLocation - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:48:24.893 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the findProduct - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:48:56.790 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you
+[INFO ] 2023-04-20 13:49:21.525 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - No PopUp Found
+[INFO ] 2023-04-20 13:49:24.065 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - 180
+[INFO ] 2023-04-20 13:49:24.823 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the addProductToCartTest - Verified the Sub Total with To Pay
+[INFO ] 2023-04-20 13:50:19.864 [TestNG-test=SimpliLearnCucumber_Author_MuthuRaja-2] Testing the operadriver - Validated the Title -Order food online from India's best food delivery service. Order from restaurants near you

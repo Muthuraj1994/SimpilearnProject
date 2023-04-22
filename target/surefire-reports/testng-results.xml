@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="69748" started-at="2023-04-19T12:41:58 IST" finished-at="2023-04-19T12:43:08 IST">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="SimpliLearnCucumber_Author_MuthuRaja" duration-ms="69748" started-at="2023-04-19T12:41:58 IST" finished-at="2023-04-19T12:43:08 IST">
+      <class name="TestRunners.Sampltest">
+        <test-method status="PASS" signature="findstoreswithLocation([Ljava.lang.Object;)[pri:0, instance:TestRunners.Sampltest@10a035a0]" name="findstoreswithLocation" duration-ms="2" started-at="2023-04-19T12:41:59 IST" data-provider="data" finished-at="2023-04-19T12:41:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@9f2fe2e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findstoreswithLocation -->
+        <test-method status="PASS" signature="findstoreswithLocation([Ljava.lang.Object;)[pri:0, instance:TestRunners.Sampltest@10a035a0]" name="findstoreswithLocation" duration-ms="0" started-at="2023-04-19T12:41:59 IST" data-provider="data" finished-at="2023-04-19T12:41:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@612ac38b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findstoreswithLocation -->
+        <test-method status="PASS" signature="findstoreswithLocation([Ljava.lang.Object;)[pri:0, instance:TestRunners.Sampltest@10a035a0]" name="findstoreswithLocation" duration-ms="0" started-at="2023-04-19T12:41:59 IST" data-provider="data" finished-at="2023-04-19T12:41:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@4dd4965a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findstoreswithLocation -->
+        <test-method status="PASS" signature="findstoreswithLocation([Ljava.lang.Object;)[pri:0, instance:TestRunners.Sampltest@10a035a0]" name="findstoreswithLocation" duration-ms="0" started-at="2023-04-19T12:41:59 IST" data-provider="data" finished-at="2023-04-19T12:41:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.Object;@79273a4f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findstoreswithLocation -->
+      </class> <!-- TestRunners.Sampltest -->
+      <class name="TestRunners.TestRunner">
+        <test-method status="PASS" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="setUpClass" is-config="true" duration-ms="635" started-at="2023-04-19T12:41:59 IST" finished-at="2023-04-19T12:41:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@66a8751a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="runScenario" duration-ms="11814" started-at="2023-04-19T12:41:59 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-19T12:42:11 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Testing the findStoresWithLocation"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="runScenario" duration-ms="12364" started-at="2023-04-19T12:42:11 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-19T12:42:24 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Testing the findProduct"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="runScenario" duration-ms="37756" started-at="2023-04-19T12:42:24 IST" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2023-04-19T12:43:01 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Testing the addProductToCartTest"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Test Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:TestRunners.TestRunner@24b1d79b]" name="tearDownClass" is-config="true" duration-ms="6444" started-at="2023-04-19T12:43:01 IST" finished-at="2023-04-19T12:43:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- TestRunners.TestRunner -->
+    </test> <!-- SimpliLearnCucumber_Author_MuthuRaja -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
